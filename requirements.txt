@@ -1,5 +1,6 @@
 numpy 
 pillow
 flask
-tensorflow
+tensorflow.keras.models
 gunicorn
+werkzeug.utils
