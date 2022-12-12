@@ -3,4 +3,4 @@ pillow
 flask
 tensorflow
 gunicorn
-werkzeug.utils
+werkzeug
